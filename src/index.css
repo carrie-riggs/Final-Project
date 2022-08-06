@@ -1,0 +1,45 @@
+#background {
+  background-color: aliceblue;
+  margin: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.text-center {
+  margin-top: 20px;
+}
+
+#todoInput {
+  width: 100%;
+}
+
+#noteInput {
+  width:100%;
+  height: 250px;
+}
+
+#journalTitle{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#journalEntry {
+  width:100%;
+  height:250px;
+}
+
+#entryCard {
+  margin: 15px;
+}
+
+#createCard {
+  padding: 5px;
+}
+
+#navbar {
+  margin: auto;
+  margin-top: 10px;
+  display:flex;
+  justify-content: center;
+}
